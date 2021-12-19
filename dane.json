@@ -1,0 +1,55 @@
+[{
+        "taryfa": "Najmniejsza",
+        "oplatacz": "20 zł",
+        "oplatam": "15 zł",
+        "moc": "25 kW",
+        "cenan": "50 zł",
+        "cenab": "55 zł"
+    },
+
+    {
+        "taryfa": "Normalna",
+        "oplatacz": "30 zł",
+        "oplatam": "15 zł",
+        "moc": "30 kW",
+        "cenan": "60 zł",
+        "cenab": "65 zł"
+    },
+
+    {
+        "taryfa": "Duza",
+        "oplatacz": "40 zł",
+        "oplatam": "20 zł",
+        "moc": "35 kW",
+        "cenan": "70 zł",
+        "cenab": "75 zł"
+    },
+
+    {
+        "taryfa": "Giga Taryfa",
+        "oplatacz": "50 zł",
+        "oplatam": "25 zł",
+        "moc": "40 kW",
+        "cenan": "80 zł",
+        "cenab": "85 zł"
+    },
+
+    {
+        "taryfa": "Ekstra Mała",
+        "oplatacz": "25 zł",
+        "oplatam": "15 zł",
+        "moc": "30 kW",
+        "cenan": "55 zł",
+        "cenab": "55 zł"
+    },
+
+    {
+        "taryfa": "Ekstra Giga",
+        "oplatacz": "55 zł",
+        "oplatam": "25 zł",
+        "moc": "45 kW",
+        "cenan": "85 zł",
+        "cenab": "85 zł"
+    }
+
+]

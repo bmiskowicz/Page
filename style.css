@@ -1,0 +1,227 @@
+h1,
+h2 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.page {
+    background-color: lavender;
+}
+
+.oblicz,
+section,
+.language,
+.navigation-name {
+    text-align: center;
+}
+
+.galeria,
+.graf,
+.bordery,
+.dodatki,
+.aside1,
+.opinia {
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(201, 141, 52);
+    border: 1px solid silver;
+    margin: 10px auto;
+}
+
+.graf {
+    width: 60%;
+}
+
+.galeria {
+    width: 65%;
+}
+
+.dodatki {
+    width: 30%;
+    background-color: rgb(141, 87, 87);
+}
+
+.bordery {
+    max-width: 70%;
+    width: auto;
+}
+
+.opinie {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.opinia {
+    background-color: silver;
+    padding: 10px;
+    width: auto;
+}
+
+@media (min-width: 1990px) {
+    .opinie {
+        flex-wrap: nowrap;
+    }
+    .opinia {
+        text-align: left;
+        padding: 10px;
+        box-sizing: border-box;
+        min-width: 20vw;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 1989px) {
+    .opinie {
+        flex-wrap: wrap;
+    }
+    .opinia {
+        width: calc(100%/3);
+    }
+}
+
+@media (min-width: 576px) and (max-width: 766px) {
+    .opinie {
+        flex-wrap: wrap;
+    }
+    .opinia {
+        width: calc(100%/2);
+    }
+}
+
+@media (max-width: 575px) {
+    .opinie {
+        flex-wrap: wrap;
+    }
+    .opinia {
+        width: calc(100%);
+    }
+}
+
+.header1 {
+    background-image: linear-gradient(to top, rgb(141, 87, 87), lavender);
+}
+
+.aside1 {
+    background-color: rgb(141, 87, 87);
+    width: 10%;
+    float: left;
+    position: absolute;
+    max-width: 10%;
+    height: auto;
+    max-height: 100%
+}
+
+.aside1 {
+    margin-top: 25px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+ul {
+    padding-left: 15%;
+    padding-right: 15%;
+    align-content: center;
+    list-style-type: none;
+}
+
+ul>li {
+    padding: 4px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    background-color: silver;
+    margin-top: 8px;
+}
+
+.tabela1 {
+    border: 2px solid rgb(201, 141, 52);
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 60%;
+    height: auto;
+    max-height: 100%
+}
+
+.tabela2 {
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgb(141, 87, 87);
+    margin: 10px auto;
+    width: auto;
+}
+
+.tabela1>thead>tr>th,
+.tabela1>tbody>tr>th,
+.tabela1>tbody>tr>td {
+    font-size: 1.5rem;
+    padding: 0px 10px;
+}
+
+.tabela1>thead {
+    background-color: rgb(173, 123, 123);
+}
+
+.tabela1>tbody>tr:nth-child(odd) {
+    background-color: bisque;
+}
+
+.tabela1>tbody>tr:nth-child(even) {
+    background-color: burlywood;
+}
+
+.tabela1>tbody>tr:hover {
+    background-color: red;
+}
+
+.footer1 {
+    background-image: linear-gradient(to top, lavender, rgb(141, 87, 87));
+    text-align: center;
+    padding-top: 5px;
+}
+
+.button {
+    background-color: rgb(141, 87, 87);
+    padding: 4px;
+}
+
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+    .header1,
+    .footer1,
+    .wideo,
+    .aside1,
+    .kontakt,
+    .opinie,
+    .opinia,
+    .przyciskpromocje,
+    .dodatki {
+        display: none !important;
+    }
+}
+
+.strona {
+    display: none;
+    width: 100%;
+    min-height: 100%;
+}
+
+.aktywna {
+    display: block;
+}
+
+.page {
+    min-height: 550px;
+}
+
+nav ul a {
+    color: inherit;
+    text-decoration: none;
+}

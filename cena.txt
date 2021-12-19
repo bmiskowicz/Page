@@ -1,0 +1,49 @@
+Taryfa: Normalna, okres: 131, cena: 8515
+Taryfa: Normalna, okres: 131, cena: 8515
+Taryfa: Normalna, okres: 131, cena: 8515
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Normalna, okres: 12, cena: 780
+Taryfa: Normalna, okres: 12, cena: 780
+Taryfa: Normalna, okres: 12, cena: 780
+Taryfa: Normalna, okres: 12, cena: 780
+Taryfa: Duza, okres: 13, cena: 975
+Taryfa: Duza, okres: 13, cena: 975
+Taryfa: Duza, okres: 13, cena: 975
+Taryfa: Duza, okres: 13, cena: 975
+Taryfa: Duza, okres: 13, cena: 975
+Taryfa: Duza, okres: 13, cena: 975
+Taryfa: Giga Taryfa, okres: 145, cena: 12325
+Taryfa: Giga Taryfa, okres: 145, cena: 12325
+Taryfa: Giga Taryfa, okres: 145, cena: 12325
+Taryfa: Giga Taryfa, okres: 145, cena: 12325
+Taryfa: Giga Taryfa, okres: 145, cena: 12325
+Taryfa: Ekstra Mała, okres: 12, cena: 660
+Taryfa: Ekstra Mała, okres: 12, cena: 660
+Taryfa: Ekstra Mała, okres: 12, cena: 660
+Taryfa: Ekstra Mała, okres: 12, cena: 660
+Taryfa: Ekstra Giga, okres: 15, cena: 1275
+Taryfa: Ekstra Giga, okres: 15, cena: 1275
+Taryfa: Ekstra Giga, okres: 15, cena: 1275
+Taryfa: Najmniejsza, okres: 142, cena: 7810
+Taryfa: Normalna, okres: 132, cena: 8580
+Taryfa: Duza, okres: 1, cena: 75
+Taryfa: Giga Taryfa, okres: 123, cena: 10455
+Taryfa: Ekstra Giga, okres: 1222111, cena: 103879435
+Taryfa: Ekstra Giga, okres: 1222111, cena: 103879435
+Taryfa: Duza, okres: 12, cena: 900
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Ekstra Mała, okres: 12, cena: 660
+Taryfa: Duza, okres: 123, cena: 9225
+Taryfa: Duza, okres: 123, cena: 9225
+Taryfa: Najmniejsza, okres: 12, cena: 660
+Taryfa: Duza, okres: 1, cena: 75
+Taryfa: Ekstra Mała, okres: 12, cena: 660
+Taryfa: Duza, okres: 12, cena: 900
+Taryfa: Ekstra Mała, okres: 123, cena: 6765
+Taryfa: Najmniejsza, okres: 15, cena: 825
+Taryfa: Najmniejsza, okres: 12, cena: 660

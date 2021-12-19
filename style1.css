@@ -1,0 +1,41 @@
+body {
+  background-color: #eeeeee;
+}
+input {
+  padding: 5px;
+  margin: 2px;
+}
+select {
+  padding: 0px;
+  margin: 2px;
+}
+.form-group {
+  display: flex;
+  flex-direction: row;
+}
+.form-group label {
+  flex: none;
+  display: block;
+  width: 150px;
+  font-weight: bold;
+  padding-top: 5px;
+}
+#formularz {
+  border: 1px solid gray;
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  margin: 100px auto;
+  width: 430px;
+}
+#error {
+  color: red;
+  font-weight: bold;
+}
+#przycisk {
+  color: #ffffff;
+  background-color: #337ab7;
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: 40%;
+}

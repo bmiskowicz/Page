@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<menu>
+    <item>
+        <name>Cennik</name>
+        <link>#oplaty</link>
+    </item>
+    <item>
+        <name>Galeria</name>
+        <link>#zdjecia</link>
+    </item>
+    <item>
+        <name>Nasze stacje</name>
+        <link>#widea</link>
+    </item>
+    <item>
+        <name>Opinie</name>
+        <link>#opinie</link>
+    </item>
+    <item>
+        <name>Kontakty</name>
+        <link>#kontakty</link>
+    </item>
+    <language>Polski</language>
+    <languageShort>pl</languageShort>
+</menu><!--Menu w języku polskim -->
